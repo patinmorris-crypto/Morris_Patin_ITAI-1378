@@ -1,7 +1,7 @@
 # 🌿 Plant Disease Detection Using Computer Vision
 
 **ITAI 1378 – Final Project**  
-**Student:** Denae Liong
+**Student:** Morris Patin
 
 ---
 
